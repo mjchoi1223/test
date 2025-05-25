@@ -48,10 +48,10 @@
 
 | 분야 | 기술 |
 |------|------|
-| Framework | Flutter 3.16.5 |
-| 지도 | Kakao Maps JavaScript API |
+| Framework | Flutter |
+| 로그인 | Kakao SDK (카카오계정 로그인) |
+| 지도 | Kakao Maps API |
 | 백엔드 | Firebase Firestore, Firebase Auth, Firebase Storage |
-| 로그인 | Kakao SDK (카카오톡 & 카카오계정 로그인) |
 | 권한 관리 | permission_handler, geolocator, pedometer |
 
 ---
@@ -70,36 +70,14 @@
 
 ## 📂 프로젝트 구조
 
-```
-lib/
-├── screens/
-│   ├── home/
-│   ├── post/
-│   ├── profile/
-├── providers/
-├── utils/
-├── main.dart
-assets/
-  images/
-  json/
-```
-
----
-
-## ✨ 향후 개선 사항
-
-- 코스별 AR 안내 기능
-- 백엔드 통계 기반 인기 경로 분석
-- 퀘스트 기반 리워드 시스템 도입
-
 ---
 
 ## 🙋 팀원 소개
 
 | 이름 | 역할 |
 |------|------|
-| [고지성] | 어플 실행 테스트 및 기능 정상 작동 확인 관리 |
-| [김태훈] | 팀장, UI/UX 개발, API 사용 설계 |
-| [박상욱] | 사용자 정보 관리 및 환경 설정 시스템 설계 및 구현 |
-| [이태석] | Firebase 연동과 관리, 게시판 시스템 구축 |
-| [최민준] | 카카오 로그인 연결, 코스 선택과 스탬프 기능 구축 |
+| 고지성 | 어플 실행 테스트 및 기능 정상 작동 확인 관리 |
+| 김태훈 | 팀장, UI/UX 개발, API 사용 설계 |
+| 박상욱 | 사용자 정보 관리 및 환경 설정 시스템 설계 및 구현 |
+| 이태석 | Firebase 연동과 관리, 게시판 시스템 구축 |
+| 최민준 | 카카오 로그인 연결, 코스 선택과 스탬프 기능 구축 |
