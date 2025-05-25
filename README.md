@@ -78,3 +78,7 @@
 - 로그아웃 기능
 
 ---
+
+## 🖼️ 소개 판넬
+
+![Image](https://github.com/user-attachments/assets/43c7e4fc-604c-41bc-9611-0a752f45600d)
