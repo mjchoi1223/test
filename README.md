@@ -38,7 +38,7 @@
 
 ## 📽️ 시연 영상
 
-[YouTube에서 시연 영상 보기](https://youtu.be/gxJPX3VBRrU?si=cpbIlLwUzAHBUuQI)
+[![시연 영상 썸네일](https://img.youtube.com/vi/gxJPX3VBRrU/0.jpg)](https://youtu.be/gxJPX3VBRrU?si=cpbIlLwUzAHBUuQI)
 
 ---
 
