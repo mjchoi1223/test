@@ -98,17 +98,8 @@ assets/
 
 | 이름 | 역할 |
 |------|------|
-| [본인 이름] | 전체 개발, Flutter UI/UX, Firebase 연동 |
-| [팀원1] | 지도 데이터 수집, 디자인 기획 |
-| [팀원2] | 백엔드 데이터 설계, 스탬프 로직 구현 |
-
----
-
-## 📌 실행 방법
-
-```bash
-flutter pub get
-flutter run
-```
-
-> Firebase, Kakao SDK 설정 필요: `.env` 또는 `android/app/src/main/AndroidManifest.xml` 내 API 키 삽입
+| [고지성] | 어플 실행 테스트 및 기능 정상 작동 확인 관리 |
+| [김태훈] | 팀장, UI/UX 개발, API 사용 설계 |
+| [박상욱] | 사용자 정보 관리 및 환경 설정 시스템 설계 및 구현 |
+| [이태석] | Firebase 연동과 관리, 게시판 시스템 구축 |
+| [최민준] | 카카오 로그인 연결, 코스 선택과 스탬프 기능 구축 |
