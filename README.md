@@ -2,7 +2,7 @@
 
 한양도성을 따라 걷는 당신을 위한 역사 탐방 가이드 앱
 
-![메인 배너 이미지 - (예: 앱 홈 화면 스크린샷)](./assets/main_screenshot.png)
+![Image](https://github.com/user-attachments/assets/26582ac9-bfa7-48c1-9fcf-4e5c443c85c7)
 
 ---
 
