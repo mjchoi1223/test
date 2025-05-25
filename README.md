@@ -44,7 +44,7 @@
 
 ## 📱 주요 기능
 
-![Image](https://github.com/user-attachments/assets/ba39dd2e-acc0-40c5-81f2-70168634f035)
+![Image](https://github.com/user-attachments/assets/ba39dd2e-acc0-40c5-81f2-70168634f035) ![Image](https://github.com/user-attachments/assets/e9c99a80-b07d-46d8-b6db-5b0c103e7727)
 
 ### 0. 카카오로 로그인
 - 별도의 회원가입 없이 카카오 계정으로 로그인 가능
