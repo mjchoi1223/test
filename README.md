@@ -1,6 +1,6 @@
 # 길라잡이 (Gilajabi)
 
-한양도성을 따라 걷는 당신을 위한 역사 탐방 가이드 앱
+한양도성을 따라 걷는 코스 가이드 앱
 
 ![Image](https://github.com/user-attachments/assets/f2b9db9e-1a74-4085-a1de-f0acd2ed9d24)
 
@@ -33,6 +33,12 @@
 | 로그인 | Kakao SDK (카카오계정 로그인) |
 | 지도 | Kakao Maps API |
 | 백엔드 | Firebase Firestore, Firebase Storage |
+
+---
+
+## 📽️ 시연 영상
+
+[YouTube에서 시연 영상 보기](https://youtu.be/gxJPX3VBRrU?si=cpbIlLwUzAHBUuQI)
 
 ---
 
@@ -72,5 +78,3 @@
 - 로그아웃 기능
 
 ---
-
-## 📽️ 시연 영상
